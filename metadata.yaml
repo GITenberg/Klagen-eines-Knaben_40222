@@ -1,0 +1,28 @@
+_repo: Klagen-eines-Knaben_40222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ehrenstein, Carl
+    birthdate: 1892
+    deathdate: 1971
+    gutenberg_agent_id: '40491'
+    url: http://www.gutenberg.org/2009/agents/40491
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40222'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Austrian literature'
+title: Klagen eines Knaben
+url: http://www.gutenberg.org/ebooks/40222
